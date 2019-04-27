@@ -91,6 +91,11 @@ ProjectNoStoryboardOnlyXIB_MakeConnections-ObjectiveC
 
 ![Captura de Pantalla 2019-04-27 a la(s) 11 17 40](https://user-images.githubusercontent.com/24994818/56852450-e96d7480-68d8-11e9-81b6-a9c38934a831.png)
 
+![Captura de Pantalla 2019-04-27 a la(s) 11 18 24](https://user-images.githubusercontent.com/24994818/56852467-13269b80-68d9-11e9-9c66-5e7c12e2ba99.png)
+
+![Captura de Pantalla 2019-04-27 a la(s) 11 25 19](https://user-images.githubusercontent.com/24994818/56852470-1a4da980-68d9-11e9-8669-d700002b1cc1.png)
+
+![Captura de Pantalla 2019-04-27 a la(s) 11 25 51](https://user-images.githubusercontent.com/24994818/56852473-20438a80-68d9-11e9-9997-d6e64ef73183.png)
 
 
 
