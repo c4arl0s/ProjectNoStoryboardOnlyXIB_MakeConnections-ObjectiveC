@@ -1,9 +1,9 @@
 # ProjectNoStoryboardOnlyXIB_MakeConnections-ObjectiveC
 ProjectNoStoryboardOnlyXIB_MakeConnections-ObjectiveC
 
-# In  this case you just delete the main storyboard and then you kept the Viewcontroller class, you have to add a new xib file view and make the connections.
+### In  this case you just delete the main storyboard and then you kept the Viewcontroller class, you have to add a new xib file view and make the connections.
 
-# How does AppDelegate.h looks like ?
+### How does AppDelegate.h looks like ?
 
 ``` objective-c
 //
@@ -24,7 +24,7 @@ ProjectNoStoryboardOnlyXIB_MakeConnections-ObjectiveC
 @end
 ```
 
-# How does AppDelegate.m looks like ?
+### How does AppDelegate.m looks like ?
 
 ``` objective-c
 //
@@ -94,6 +94,8 @@ ProjectNoStoryboardOnlyXIB_MakeConnections-ObjectiveC
 ![Captura de Pantalla 2019-04-27 a la(s) 11 18 24](https://user-images.githubusercontent.com/24994818/56852467-13269b80-68d9-11e9-9c66-5e7c12e2ba99.png)
 
 ![Captura de Pantalla 2019-04-27 a la(s) 11 25 19](https://user-images.githubusercontent.com/24994818/56852470-1a4da980-68d9-11e9-8669-d700002b1cc1.png)
+
+### Remember to connect the view with file's owner in the connection inspector. Control drag.
 
 ![Captura de Pantalla 2019-04-27 a la(s) 11 43 24](https://user-images.githubusercontent.com/24994818/56852545-efb02080-68d9-11e9-92f7-070537004946.png)
 
